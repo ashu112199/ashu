@@ -1,0 +1,38 @@
+[5936:7100:2021-9-22 11:51:31.823] Main Start
+[5936:7100:2021-9-22 11:51:31.823] Command line:"C:\Users\user\Downloads\Zoom_cm_ds_mKT4a2ykrPRnbp-08OJlCio+OeCpLz5wbcLox@CnZEdlLsBPjnM8aL_k19a57fdb73315170_.exe"  Instance:0x1010000 Show State:1
+[5936:7100:2021-9-22 11:51:31.845] C:\
+[5936:4320:2021-9-22 11:51:31.850] [process_requst] start, url:https://zoom.us/conf/launch
+[5936:4320:2021-9-22 11:51:33.209] HttpSendRequest API failed1, error code: 12029
+[5936:4320:2021-9-22 11:51:34.397] HttpSendRequest API failed, error code: 12029
+[5936:4320:2021-9-22 11:51:34.398] [process_requst] End for url:https://zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[5936:4320:2021-9-22 11:51:34.404] [process_requst] start, url:https://zoom.us/conf/launch
+[5936:4320:2021-9-22 11:51:35.662] HttpSendRequest API failed1, error code: 12029
+[5936:4320:2021-9-22 11:51:36.753] HttpSendRequest API failed, error code: 12029
+[5936:4320:2021-9-22 11:51:36.754] [process_requst] End for url:https://zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[5936:7100:2021-9-22 11:51:36.803] [client_has_installed_app] found path:
+[5936:7100:2021-9-22 11:51:36.803]  ***NULL-POINTER-PLACEHOLDER***
+[5936:4320:2021-9-22 11:51:58.842] [process_requst] start, url:https://zoom.us/conf/launch
+[5936:4320:2021-9-22 11:51:59.972] HttpSendRequest API failed1, error code: 12029
+[5936:4320:2021-9-22 11:52:1.68] HttpSendRequest API failed, error code: 12029
+[5936:4320:2021-9-22 11:52:1.68] [process_requst] End for url:https://zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[5936:7100:2021-9-22 11:52:1.91] [client_has_installed_app] found path:
+[5936:7100:2021-9-22 11:52:1.91]  ***NULL-POINTER-PLACEHOLDER***
+[5936:4320:2021-9-22 11:52:3.529] [process_requst] start, url:https://zoom.us/conf/launch
+[5936:4320:2021-9-22 11:52:4.813] HttpSendRequest API failed1, error code: 12029
+[5936:4320:2021-9-22 11:52:6.97] HttpSendRequest API failed, error code: 12029
+[5936:4320:2021-9-22 11:52:6.97] [process_requst] End for url:https://zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[5936:7100:2021-9-22 11:52:6.154] [client_has_installed_app] found path:
+[5936:7100:2021-9-22 11:52:6.155]  ***NULL-POINTER-PLACEHOLDER***
+[5936:4320:2021-9-22 11:52:10.217] [process_requst] start, url:https://zoom.us/conf/launch
+[5936:4320:2021-9-22 11:52:11.670] HttpSendRequest API failed1, error code: 12029
+[5936:4320:2021-9-22 11:52:12.808] HttpSendRequest API failed, error code: 12029
+[5936:4320:2021-9-22 11:52:12.808] [process_requst] End for url:https://zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[5936:7100:2021-9-22 11:52:12.843] [client_has_installed_app] found path:
+[5936:7100:2021-9-22 11:52:12.843]  ***NULL-POINTER-PLACEHOLDER***
+[5936:4320:2021-9-22 11:52:14.717] [process_requst] start, url:https://zoom.us/conf/launch
+[5936:4320:2021-9-22 11:52:15.964] HttpSendRequest API failed1, error code: 12029
+[5936:4320:2021-9-22 11:52:17.231] HttpSendRequest API failed, error code: 12029
+[5936:4320:2021-9-22 11:52:17.231] [process_requst] End for url:https://zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[5936:7100:2021-9-22 11:52:17.279] [client_has_installed_app] found path:
+[5936:7100:2021-9-22 11:52:17.279]  ***NULL-POINTER-PLACEHOLDER***
+[5936:7100:2021-9-22 11:52:19.102] Main End
