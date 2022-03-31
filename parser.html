@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <h1>DOM parser</h1>
+        <script>
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET","https://time.com/",true);
+            xhr.responseType = "document";
+            console.log("xhr response",xhr.responseXML)
+            xhr.onload = function(){
+                
+                if(xhr.status == 200){
+                    var response = console.log("xhr response",xhr.responseXML)
+                }
+            }
+        </script>
+    </body>
+</html>
